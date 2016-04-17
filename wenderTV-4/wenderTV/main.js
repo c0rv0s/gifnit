@@ -73,6 +73,8 @@ function _createAlert(title, description) {
       <alertTemplate>
 //        <title>${title}</title>
         <description>${description}</description>
+    <rainbowText style="font-size: 29;">Welcome to tvOS!</rainbowText>
+    <rainbowProgress id="rainbowProgress" progress="0.55" style="margin: 20;
       </alertTemplate>
     </document>`
 

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "228569051BF2C22800932673"
-               BuildableName = "wenderTV.app"
-               BlueprintName = "wenderTV"
-               ReferencedContainer = "container:wenderTV.xcodeproj">
+               BuildableName = "gifinit.app"
+               BlueprintName = "gifinit"
+               ReferencedContainer = "container:gifinit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "228569051BF2C22800932673"
-            BuildableName = "wenderTV.app"
-            BlueprintName = "wenderTV"
-            ReferencedContainer = "container:wenderTV.xcodeproj">
+            BuildableName = "gifinit.app"
+            BlueprintName = "gifinit"
+            ReferencedContainer = "container:gifinit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "228569051BF2C22800932673"
-            BuildableName = "wenderTV.app"
-            BlueprintName = "wenderTV"
-            ReferencedContainer = "container:wenderTV.xcodeproj">
+            BuildableName = "gifinit.app"
+            BlueprintName = "gifinit"
+            ReferencedContainer = "container:gifinit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "228569051BF2C22800932673"
-            BuildableName = "wenderTV.app"
-            BlueprintName = "wenderTV"
-            ReferencedContainer = "container:wenderTV.xcodeproj">
+            BuildableName = "gifinit.app"
+            BlueprintName = "gifinit"
+            ReferencedContainer = "container:gifinit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
